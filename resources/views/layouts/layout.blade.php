@@ -17,10 +17,11 @@
               <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                   <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="{{Route('mohamed')}}">Home</a>
+                    <a class="nav-link active" aria-current="page" href="{{Route('home')}}">Home</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="/about">About</a>
+                    <a class="nav-link" href="">blog</a>
                   </li>
                 </ul>
               </div>
