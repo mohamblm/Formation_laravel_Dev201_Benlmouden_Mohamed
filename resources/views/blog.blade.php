@@ -3,5 +3,5 @@
 
 @section('changeData')
 <h1>Blog</h1>
-<p>{{$data}}</p>
+<p>{{$data['title']}}</p>
 @endsection
